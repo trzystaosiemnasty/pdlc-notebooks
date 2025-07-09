@@ -1,1 +1,1 @@
-# pdlc-notebooks
+Practical Deep Learning for Coders colab notebooks
